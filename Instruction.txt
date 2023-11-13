@@ -1,0 +1,10 @@
+After cloning the code you should take care of these steps. 
+
+1- you should install the latest version of the .net framework.
+2- it will be good if you run it on Visual Studio 2022.
+3- you don't need to run any command to create your database before running such as "add migration or update database",
+   the project will create your database automatically when you click the run button.
+4- After running you should add the employee first to make all apis fretch data.
+5- In the employee model, birthdate should follow the DateTime format, 
+   it will be like "year-month-day" and should be to number in month and day as "1999-08-05".
+6- All APIs will appear in the swager UI so it helps you to know what API want.
